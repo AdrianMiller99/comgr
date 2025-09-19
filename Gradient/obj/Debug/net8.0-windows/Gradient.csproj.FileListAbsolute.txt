@@ -1,0 +1,14 @@
+C:\Users\adria\comgr\Gradient\obj\Debug\net8.0-windows\Gradient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\comgr\Gradient\obj\Debug\net8.0-windows\Gradient.AssemblyInfoInputs.cache
+C:\Users\adria\comgr\Gradient\obj\Debug\net8.0-windows\Gradient.AssemblyInfo.cs
+C:\Users\adria\comgr\Gradient\obj\Debug\net8.0-windows\Gradient.csproj.CoreCompileInputs.cache
+C:\Users\adria\comgr\Gradient\bin\Debug\net8.0-windows\Gradient.exe
+C:\Users\adria\comgr\Gradient\bin\Debug\net8.0-windows\Gradient.deps.json
+C:\Users\adria\comgr\Gradient\bin\Debug\net8.0-windows\Gradient.runtimeconfig.json
+C:\Users\adria\comgr\Gradient\bin\Debug\net8.0-windows\Gradient.dll
+C:\Users\adria\comgr\Gradient\bin\Debug\net8.0-windows\Gradient.pdb
+C:\Users\adria\comgr\Gradient\obj\Debug\net8.0-windows\Gradient.dll
+C:\Users\adria\comgr\Gradient\obj\Debug\net8.0-windows\refint\Gradient.dll
+C:\Users\adria\comgr\Gradient\obj\Debug\net8.0-windows\Gradient.pdb
+C:\Users\adria\comgr\Gradient\obj\Debug\net8.0-windows\Gradient.genruntimeconfig.cache
+C:\Users\adria\comgr\Gradient\obj\Debug\net8.0-windows\ref\Gradient.dll
