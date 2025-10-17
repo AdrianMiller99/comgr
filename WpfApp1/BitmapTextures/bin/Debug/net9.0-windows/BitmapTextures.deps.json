@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BitmapTextures/1.0.0": {
+        "runtime": {
+          "BitmapTextures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BitmapTextures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

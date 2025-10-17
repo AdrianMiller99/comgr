@@ -18,3 +18,4 @@ C:\Users\adria\comgr\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\refint\WpfApp1.dll
 C:\Users\adria\comgr\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.pdb
 C:\Users\adria\comgr\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.genruntimeconfig.cache
 C:\Users\adria\comgr\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\ref\WpfApp1.dll
+C:\Users\adria\comgr\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.sourcelink.json
